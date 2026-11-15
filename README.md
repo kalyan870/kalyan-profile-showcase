@@ -19,7 +19,7 @@ All files below are attached to the [v1.0.0 release](https://github.com/kalyan87
 | Architecture and technology catalog for all 53 repositories | [PPTX](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_All_53_Repo_Architecture_Tools.pptx) | [PDF](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_All_53_Repo_Architecture_Tools.pdf) |
 | Portfolio overview and repository stack | [PPTX](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_Portfolio_Company_Presentation_With_Repository_Stack.pptx) | [PDF](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_Portfolio_Company_Presentation_With_Repository_Stack.pdf) |
 
-For project-by-project material, use the separate [53 PowerPoints](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_GitHub_Project_PowerPoints_53.zip), [53 PDFs](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_GitHub_Project_PDFs_53.zip), and [53 explanation documents](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_GitHub_Project_Explanations_53.zip).
+For project-by-project downloads, use the [individual project index](./individual-downloads.md). Each repository has separate PowerPoint, PDF, and explanation-document downloads.
 
 See [CONTENT_GUIDE.md](./CONTENT_GUIDE.md) for the film timeline and a guide to the downloadable files.
 
