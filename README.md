@@ -37,3 +37,9 @@ See [CONTENT_GUIDE.md](./CONTENT_GUIDE.md) for the film timeline and a guide to 
 - Frame rate: 30 fps
 - Audio: background music only; no narration
 
+## Architecture
+
+
+![kalyan-profile-showcase architecture map](docs/images/kalyan-profile-showcase-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/kalyan-profile-showcase-architecture.svg)
